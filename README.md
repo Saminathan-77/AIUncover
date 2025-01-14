@@ -99,9 +99,3 @@ pip install pandas tensorflow transformers scikit-learn ftfy fitz nltk
 
 3. **Content Analysis**:
    - Analyze the origin of text in large datasets.
-
----
-
-## Support
-
-For assistance, consult the documentation of the required Python packages or contact the project maintainers for further support.
